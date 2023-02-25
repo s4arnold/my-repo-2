@@ -2,4 +2,6 @@
 
 # my second repo
 
-git and automation
+git and automation and learning 
+
+live life
