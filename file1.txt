@@ -1,4 +1,4 @@
-# Use an official Tomcat runtime as a base image
+#d Use an official Tomcat runtime as a base image
 FROM ubuntu:4.25
 
 # Remove the default Tomcat applications
