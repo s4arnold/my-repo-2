@@ -15,3 +15,5 @@ EXPOSE 5000
 
 # Set the command to run the application when the container starts
 CMD ["python", "app.py"]
+ls 
+mkdir
