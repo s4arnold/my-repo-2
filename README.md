@@ -5,3 +5,6 @@ my second repo
 git and automation
 
 Devops
+ls
+cd
+pwd
