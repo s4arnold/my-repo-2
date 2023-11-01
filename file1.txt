@@ -12,3 +12,6 @@ EXPOSE 5089
 
 # Start Tomcat
 CMD ["catalina.sh", "run"]
+ls
+pwd 
+docker images
