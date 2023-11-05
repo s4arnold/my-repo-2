@@ -11,6 +11,5 @@ COPY my-webapp.war /usr/local/tomcat/webapps/ROOT.war
 EXPOSE 5089
 
 # Start Tomcat
-CMD ["catalina.sh", "run"]
-docker pull nginx 
+CMD ["catalina.sh", "run"] 
 docker images
